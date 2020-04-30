@@ -20,7 +20,7 @@ var friendsData = [
   {
     name: "Wonder Woman",
     photo:
-      "http://vignetthttps://i.ytimg.com/vi/EvMp-YIkPX0/maxresdefault.jpge3.wikia.nocookie.net/matrix/images/6/67/Trinityfull.jpg/revision/latest?cb=20060803214449",
+      "https://www.nme.com/wp-content/uploads/2017/07/wonderwoman-1280-9amembargo-1488818748850_1280w-696x442.jpg",
     scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
   },
   {
@@ -32,13 +32,13 @@ var friendsData = [
   {
     name: "Nami",
     photo:
-      "https://s-media-cache-ak0.pinimg.com/originals/a9/01/29/a9012982ehttps://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Featured-Image-Nami-Cropped.jpgea651ee31e21f4ad11fe96b.jpg",
+      "https://s-media-cache-ak0.pinimg.com/originals/a9/01/29/a9012982ehttps://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Featured-Imagehttps://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Featured-Image-Nami-Cropped.jpg-Nami-Cropped.jpgea651ee31e21f4ad11fe96b.jpg",
     scores: [2, 4, 2, 4, 2, 3, 4, 4, 4, 3],
   },
   {
     name: "Leeloo",
     photo:
-      "http://imagehttps://https://vignette.wikia.nocookie.net/fifth-element/images/6/69/Tumblr_nodbdlkH1I1rv91n5o1_500.png/revision/latest/scale-to-width-down/340?cb=20191007115149.wikia.nocookie.net/fifth-element/images/6/69/Tumblr_nodbdlkH1I1rv91n5o1_500.png/revision/latest/scale-to-width-down/340?cb=20191007115149s.techtimes.com/data/images/full/168082/princess-leia-organa.jpg?w=600",
+      "https://i.pinimg.com/originals/55/41/88/55418827e315ae8e6f1e1be69df5f108.jpg",
     scores: [5, 4, 5, 4, 5, 3, 3, 3, 2, 4],
   },
 ];
