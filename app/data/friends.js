@@ -38,7 +38,7 @@ var friendsData = [
   {
     name: "Leeloo",
     photo:
-      "http://imagehttps://vignette.wikia.nocookie.net/fifth-element/images/6/69/Tumblr_nodbdlkH1I1rv91n5o1_500.png/revision/latest/scale-to-width-down/340?cb=20191007115149s.techtimes.com/data/images/full/168082/princess-leia-organa.jpg?w=600",
+      "http://imagehttps://https://vignette.wikia.nocookie.net/fifth-element/images/6/69/Tumblr_nodbdlkH1I1rv91n5o1_500.png/revision/latest/scale-to-width-down/340?cb=20191007115149.wikia.nocookie.net/fifth-element/images/6/69/Tumblr_nodbdlkH1I1rv91n5o1_500.png/revision/latest/scale-to-width-down/340?cb=20191007115149s.techtimes.com/data/images/full/168082/princess-leia-organa.jpg?w=600",
     scores: [5, 4, 5, 4, 5, 3, 3, 3, 2, 4],
   },
 ];
