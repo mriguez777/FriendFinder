@@ -2,19 +2,18 @@ var friendsData = [
   {
     name: "Barf the Mawg",
     photo:
-      "https://vignette.wikia.nocookie.net/p__/images/4/4e/Spaceballs4.jpg/revision/latest/scale-to-width-down/340?cb=20120225231815&path-prefix=protagonist",
+      "https://i.pinimg.com/originals/16/45/4c/16454c589e9e31a12b1e1d41d8021ffe.jpg",
     scores: [3, 4, 3, 3, 4, 4, 4, 1, 5, 3],
   },
   {
     name: "Sweet Brother Numsie!",
-    photo:
-      "https://uploahttps://i.imgur.com/UneR0gp.gifd.wikimedia.org/wikipedia/en/thumb/e/e5/No_2_APTSWSM.jpg/200px-No_2_APTSWSM.jpg",
+    photo: "https://i.ytimg.com/vi/S_4nktgzaJA/hqdefault.jpg",
     scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
   },
   {
     name: "The Joker",
     photo:
-      "https://https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlxRH-aEeHeWlSGWNUmNAajBraiQDpZX0KCcJdSuCus4XJqceW&usqp=CAUs-media-cache-ak0.pinimg.com/564x/dd/31/d2/dd31d2dd156204fcf9b6aa1c54455adb.jpg",
+      "https://img1.looper.com/img/gallery/how-playing-the-joker-changed-heath-ledger-for-good/intro-1569299591.jpg",
     scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
   },
   {
@@ -26,13 +25,13 @@ var friendsData = [
   {
     name: "Dormammu",
     photo:
-      "https://at-cdn-s01.audiotool.com/2012/05/28/documents/ei368KjdlP52wCEAAkGBxMTEhUTExMWFhUXGRoZGBcXFxcdGhgYGBcXGBcYGBgYHiggGBolHRcaITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICYtLS8tLS0tLS0tLS8tLS0tLy0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLfqy6gILDLtH9cEAf6H/0/cover256x256-b31436c2a9bc4645b1ad67bc09705cd7.jpg",
+      "https://qph.fs.quoracdn.net/main-qimg-0ab5e36f0e8f9f563b14226d7ba7e8a8",
     scores: [5, 4, 4, 4, 4, 3, 2, 1, 5, 5],
   },
   {
     name: "Nami",
     photo:
-      "https://s-media-cache-ak0.pinimg.com/originals/a9/01/29/a9012982ehttps://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Featured-Imagehttps://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Featured-Image-Nami-Cropped.jpg-Nami-Cropped.jpgea651ee31e21f4ad11fe96b.jpg",
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Featured-Image-Nami-Cropped.jpg",
     scores: [2, 4, 2, 4, 2, 3, 4, 4, 4, 3],
   },
   {
